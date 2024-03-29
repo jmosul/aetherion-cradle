@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureContainer {
+  text-align: center;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+.featureContainer::after {
+  content: "";
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  top: 0;
+  margin-left: -200px;
+}
