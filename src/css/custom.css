@@ -51,6 +51,18 @@
   text-align: center;
 }
 
+.Content__Col2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .Content__Col2 {
+    grid-template-columns: 1fr;
+  }
+}
+
 .Content__Aside {
   border: 1px solid #ccc;
   border-radius: 5px;
