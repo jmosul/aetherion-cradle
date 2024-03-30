@@ -61,7 +61,7 @@ const config: Config = {
       title: 'The Aetherion Cradle',
       logo: {
         alt: 'Cradle',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
