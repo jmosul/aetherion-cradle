@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Welcome to the Aetherion Cradle
 
+![Book of Moons](./assets/images/moonsview.webp)
+
 ### From the Book of Moons
 
 In the beginning, there was the Goddess, the Mother of All, who wove the tapestry of creation from the void. Her touch brought forth the verdant world, a perfect reflection of her grace and benevolence. Within this paradise, her children flourished, basking in her love and the harmony of existence.
