@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Aetherion Cradle',
-  tagline: 'A world of magic and mystery',
+  tagline: 'Eons ago the world exploded. And we were saved ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
