@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to the Aetherion Cradle
+# The Book of Moons
 
 ![Book of Moons](./assets/images/moonsview.webp)
 
