@@ -12,7 +12,7 @@ In the beginning, there was the Goddess, the Mother of All, who wove the tapestr
 brought forth the verdant world, a perfect reflection of her grace and benevolence. Within this paradise, her children
 flourished, basking in her love and the harmony of existence.
 
-Yet, the universe, in its infinite expanse, harbored shadows. A great discord arose, challenging the sanctity of the
+Yet, the universe, in its infinite expanse, harboured shadows. A great discord arose, challenging the sanctity of the
 Goddess's creation. In her infinite wisdom, the Goddess foresaw the tribulations her children would face. Thus, she
 chose from among them seven, the most virtuous and brave, and raised them above mortals. To these Champions, she
 bestowed fragments of her divine essence, that they might act as her stewards and protectors of the world.
