@@ -1,3 +1,5 @@
+![Ilture](../assets/images/moons/ilture/moon_ilture.webp)
+
 ## Ilture: The Ethereal Aerie
 
 In the grand cosmic dance of Aetherion Cradle, Ilture claims its place as the smallest of the moons, a delicate jewel adrift in the celestial sea. Yet, what Ilture lacks in size, it compensates with a beauty and spirit unmatched by its larger counterparts. This realm of the skies, where land and life itself float unbound, stands as a testament to the aspirations and dreams of those who dwell within and beyond its borders.
